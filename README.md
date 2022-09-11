@@ -1,6 +1,6 @@
 ## TEKNOLOGI CLOUD
 
-Repo ini berisi praktik, latihan dan tugas mata kuliah teknologi cloud.
+Repo ini berisi praktik/latihan/tugas mata kuliah teknologi cloud.
 
 ## Contributor
 ```
