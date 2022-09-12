@@ -4,7 +4,7 @@
 ## Halaman
 - [git-single.md](git-single.md)
 - [rangkuman-cloud-computing.md](rangkuman-cloud-computing.md)
-- [git-kolaborasi](git-kolaborasi.md)
+- [git-kolaborasi.md](git-kolaborasi.md)
 
 
 ## Author
