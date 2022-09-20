@@ -3,25 +3,23 @@
 
 ### Rangkuman Artikel 1
 ``What is the difference between IaaS, SaaS, and Paas?``
-```
+
 You make your own cheese, toppings, pizza dough, have your own oven, gas, etc. and you do everything yourself and eat at home. In the case of IaaS, you buy the raw materials from your cloud service provider. The infrastructure would be provided to you by the cloud provider you would not have full control over it. 
 
 In PaaS, you buy pizza from outside and eat at home - i. They are provided to you as managed services by your cloud service provider. In the SaaS model, most services are through your service provider and the amount of setup or installation on your end is minimal.
-```
 
 ### Rangkuman Artikel 2
 ``SAAS (Software as a Service) Platform Architecture``
-```
+
 How SaaS Affects IT ?
 After you’ve made the decision to pursue SaaS, the next is to prepare for the transition by assessing how the deployment will affect existing IT assets. Performing due diligence is a routine part of any successful IT infrastructure deployment project. Assess your data-security needs, and ensure that the provider has measures in place to meet the standards you set.
 
 Impact on IT Roles and Responsibilities
 Adding SaaS can cause a fundamental shift in the IT department’s role as a provider of information services. In the past, the nature of software deployment has put chief information officers in the role of gatekeepers .
-```
 
 ### Rangkuman Artikel 3
 ``What is Software as a Service SaaS Architecture``
-```
+
 Wondering about Software as a Service SaaS architecture?
 
 The delivery of software has changed over the years. Historically, applications were written for mainframes in languages such as COBOL. Finally, we saw the development of more advanced services including multi-tenant architecture that is run and accessed via remote ‘cloud’ servers. It was during this time that we saw a paradigm shift in the way in which software was being built and made available to the end consumer.
@@ -55,11 +53,10 @@ That said, there are still many applications that don’t offer a hosted version
 SCALABILITY
 
 Well-designed SaaS applications need to be able to do this. From a software architecture perspective, you can introduce a separation of concerns by having individual layers to handle data access, business logic, and the presentation layers of your application which will help your application scale more easily.
-```
 
 ### Rangkuman Artikel 3
 ``How to build a cloud-based SaaS application``
-```
+
 Build for the cloud
 
 When building a SaaS application chances are high that you're building it in the cloud. Here's how to build up a cloud-based SaaS architecture.
@@ -99,4 +96,3 @@ With Python, MongoDB – as a great document-orientated database, RabbitMQ softw
 Start with software testing now
 
 This article was brought to you by Usersnap – your feedback and bug tracking tool. Used by software companies like Facebook, Google, and AddThis. Read this blog post about how Usersnap helps during your SaaS application development. And if you’re ready to try out a customer feedback software, Usersnap offers a free trial.
-```
